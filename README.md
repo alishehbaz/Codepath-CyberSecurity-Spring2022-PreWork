@@ -1,1 +1,6 @@
-# Codepath-CyberSecurity-Spring2022-PreWork
+### Codepath Prework
+
+> Semester: Spring 2022 \
+> Class : Cybersecurity \
+> Lab : Username Enumeration via Different responses \
+> Status : Completed 
